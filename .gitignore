@@ -33,15 +33,3 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
-
-
-.next/
-out/
-node_modules/
-
-# Environment variables
-.env.local
-
-# IDE and editor files
-.idea/
-.vscode/
